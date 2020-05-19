@@ -1,2 +1,2 @@
 # EurorackPublic
-cc-by-sa-4.0
+#cc-by-sa-4.0
