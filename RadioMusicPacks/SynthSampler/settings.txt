@@ -1,0 +1,15 @@
+﻿crossfade=1
+crossfadeTime=100
+showMeter=1
+chanPotImmediate=1
+chanCVImmediate=1
+startPotImmediate=1
+startCVImmediate=1
+looping=0
+anyAudioFiles=1
+pitchMode=1
+hardSwap=1
+quantizeRootPot=0
+quantizeRootCV=1
+startCVDivider=1
+
